@@ -1,2 +1,3 @@
 # JavaScript_Calculator
-Calculator created JavaScript -- my first first JavaScript project 
+Calculator created in JavaScript, HTML and CSS
+*my first first JavaScript project 
